@@ -1,0 +1,2 @@
+include ':Kids'
+rootProject.name='My Application'
